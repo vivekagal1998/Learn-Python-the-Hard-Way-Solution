@@ -1,0 +1,11 @@
+from nose.tools import
+form ex47.game import Random
+
+def test_room():
+        gold = Room("GoldRoom",
+                """This room has gold in it you can grab. There's door to the north""")
+
+    )
+
+def test_room():
+    gold = Room("GoldRoom")
